@@ -1,40 +1,65 @@
-.login{
-    
-    font-size: 30px;
-    padding-bottom: 50px;
-    padding-left: 50px;
-     border-style: double;
-     width:50%;
-   
-}
-.password{
+.login {
 
-margin-left: 50px;
+  font-size: 30px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  border-style: double;
+  width: 50%;
 
 }
-h3{
 
-    font-family: Monospace;  
-}
-img{
+.password {
 
-width: 20%
+  margin-left: 50px;
 
 }
-.center{
 
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+h3 {
+
+  font-family: Monospace;
+}
+
+img {
+
+  width: 20%
+}
+
+.center {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 
 
 }
-body#LoginForm{ background-image:url("https://hdwallsource.com/img/2014/9/blur-26347-27038-hd-wallpapers.jpg"); background-repeat:no-repeat; background-position:center; background-size:cover; padding:10px;}
 
-.form-heading { color:#fff; font-size:23px;}
-.panel h2{ color:#444444; font-size:18px; margin:0 0 8px 0;}
-.panel p { color:#777777; font-size:14px; margin-bottom:30px; line-height:24px;}
+body#LoginForm {
+  background-image: url("https://hdwallsource.com/img/2014/9/blur-26347-27038-hd-wallpapers.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 10px;
+}
+
+.form-heading {
+  color: #fff;
+  font-size: 23px;
+}
+
+.panel h2 {
+  color: #444444;
+  font-size: 18px;
+  margin: 0 0 8px 0;
+}
+
+.panel p {
+  color: #777777;
+  font-size: 14px;
+  margin-bottom: 30px;
+  line-height: 24px;
+}
+
 .login-form .form-control {
   background: #f7f7f7 none repeat scroll 0 0;
   border: 1px solid #d4d4d4;
@@ -43,6 +68,7 @@ body#LoginForm{ background-image:url("https://hdwallsource.com/img/2014/9/blur-2
   height: 50px;
   line-height: 50px;
 }
+
 .main-div {
   background: #ffffff none repeat scroll 0 0;
   border-radius: 2px;
@@ -52,15 +78,20 @@ body#LoginForm{ background-image:url("https://hdwallsource.com/img/2014/9/blur-2
 }
 
 .login-form .form-group {
-  margin-bottom:10px;
+  margin-bottom: 10px;
 }
-.login-form{ text-align:center;}
+
+.login-form {
+  text-align: center;
+}
+
 .forgot a {
   color: #777777;
   font-size: 14px;
   text-decoration: underline;
 }
-.login-form  .btn.btn-primary {
+
+.login-form .btn.btn-primary {
   background: #f0ad4e none repeat scroll 0 0;
   border-color: #f0ad4e;
   color: #ffffff;
@@ -70,25 +101,49 @@ body#LoginForm{ background-image:url("https://hdwallsource.com/img/2014/9/blur-2
   line-height: 50px;
   padding: 0;
 }
+
 .forgot {
-  text-align: left; margin-bottom:30px;
+  text-align: left;
+  margin-bottom: 30px;
 }
+
 .botto-text {
   color: #ffffff;
   font-size: 14px;
   margin: auto;
 }
+
 .login-form .btn.btn-primary.reset {
   background: #ff9900 none repeat scroll 0 0;
 }
-.back { text-align: left; margin-top:10px;}
-.back a {color: #444444; font-size: 13px;text-decoration: none;}
+
+.back {
+  text-align: left;
+  margin-top: 10px;
+}
+
+.back a {
+  color: #444444;
+  font-size: 13px;
+  text-decoration: none;
+}
+
 #grad1 {
-    height: 100px;
-    background-color: red; /* For browsers that do not support gradients */
-    background-image: linear-gradient(to bottom right, red, yellow); /* Standard syntax (must be last) */
-  }
- body {
-            background-image: url("paper.gif");
-            background-color: #cccccc;
-           } 
+  height: 100px;
+  background-color: red;
+  /* For browsers that do not support gradients */
+  background-image: linear-gradient(to bottom right, red, yellow);
+  /* Standard syntax (must be last) */
+}
+
+body {
+  background-color: #cccccc;
+}
+.register {
+  background-color: whitesmoke ;
+  margin: 5% 5% 5% 5%  ;
+  padding: 2% 2% 2% 2%
+  
+
+
+}
