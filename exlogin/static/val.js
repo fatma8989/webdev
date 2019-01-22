@@ -12,6 +12,7 @@ function validation() {
     // console.log(x)
     console.log(y)
     // console.log(z)
+    
 }
 
 function valfn(firstname) {
